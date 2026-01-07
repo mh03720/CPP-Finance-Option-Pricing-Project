@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Temporary / cache folders
+Projet_C.262086b6/
